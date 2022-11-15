@@ -36,7 +36,7 @@ public class HandShap : MonoBehaviour
         {
             currentC.SetActive(false);
             currentC = color[teri += 1];
-            currentC.SetActive(true);
+ 
 
 
             if (currentC == color[3])
